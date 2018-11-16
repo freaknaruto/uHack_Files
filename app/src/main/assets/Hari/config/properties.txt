@@ -1,0 +1,8 @@
+url:http://djustice-android.tumblr.com
+name:uBot
+email:uBot@STICollegeNova.edu.ph
+gender:Male
+botmaster:uBot Team
+organization:uBot Team
+version:0.0.1
+
